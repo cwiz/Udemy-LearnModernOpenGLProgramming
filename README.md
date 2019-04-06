@@ -4,7 +4,7 @@ Code for https://www.udemy.com/learn-modern-opengl-programming
 # Learn Modern OpenGL Programming 
 ## Lecture notes and source code
 
-source/lecture1.cpp contains code that we gradually build in lecture 1 to 3 to handle basics such as creating a window and handling input and also making sure we are able to use OpenGL function.
+(lecture1.cpp)[https://github.com/cwiz/Udemy-LearnModernOpenGLProgramming/blob/master/OpenGLCourse/src/lesson1.cpp] contains code that we gradually build in lecture 1 to 3 to handle basics such as creating a window and handling input and also making sure we are able to use OpenGL function.
 
 ### Lecture 1. Introduction
 
